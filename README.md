@@ -19,3 +19,4 @@ Panah/WASD jalan, Z/Enter bicara & pilih, X/Esc kembali.
 - src/engine : mini engine (Scene, SceneManager, Application, Input, Ui)
 - src/game   : peta, entitas, cerita, scene (Title, Overworld, Dialogue, Battle, Ending)
 - tests      : test logika inti
+# ProjectOOP
