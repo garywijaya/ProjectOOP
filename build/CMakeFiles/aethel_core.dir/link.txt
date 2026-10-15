@@ -1,0 +1,2 @@
+/usr/bin/ar qc libaethel_core.a CMakeFiles/aethel_core.dir/src/core/Element.cpp.o CMakeFiles/aethel_core.dir/src/core/BattleLog.cpp.o CMakeFiles/aethel_core.dir/src/core/Combatant.cpp.o CMakeFiles/aethel_core.dir/src/core/Skill.cpp.o CMakeFiles/aethel_core.dir/src/core/Skills.cpp.o CMakeFiles/aethel_core.dir/src/core/Heroines.cpp.o CMakeFiles/aethel_core.dir/src/core/Monsters.cpp.o CMakeFiles/aethel_core.dir/src/core/Battle.cpp.o CMakeFiles/aethel_core.dir/src/core/Party.cpp.o CMakeFiles/aethel_core.dir/src/core/TileMap.cpp.o
+/usr/bin/ranlib libaethel_core.a

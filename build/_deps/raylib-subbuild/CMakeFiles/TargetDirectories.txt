@@ -1,0 +1,3 @@
+/Users/garywijaya/Downloads/source_code/build/_deps/raylib-subbuild/CMakeFiles/raylib-populate.dir
+/Users/garywijaya/Downloads/source_code/build/_deps/raylib-subbuild/CMakeFiles/edit_cache.dir
+/Users/garywijaya/Downloads/source_code/build/_deps/raylib-subbuild/CMakeFiles/rebuild_cache.dir
